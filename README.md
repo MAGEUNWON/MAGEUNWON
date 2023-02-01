@@ -7,7 +7,7 @@
 
 <h3 align = "center"> 
 <a href="http://15.164.13.18:3050/">
-  <img src="https://img.shields.io/badge/포트폴리오-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF4F8B?style=flat-square&logo=Portfolio&logoColor=white"/>
 </a>
 
 </h3>
