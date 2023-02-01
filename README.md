@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="이동할 링크">
-  <img src="https://img.shields.io/badge/텍스트-배경색상코드?style=flat-square&logo=로고&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!--
 **MAGEUNWON/MAGEUNWON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
