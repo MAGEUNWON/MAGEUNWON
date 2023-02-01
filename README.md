@@ -3,7 +3,7 @@
 <div align = "center">
     <h4>안녕하세요 개발자 마근원입니다👋</h4>
     
-<h3 align = "center"> skills</h3>
+<h3 align = "center"> ⚙️ skills</h3>
 
 <p align = "center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
@@ -23,3 +23,6 @@
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 </p>
 
+## ✅ GitHub stats
+ 
+![geunwon GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=vue)
