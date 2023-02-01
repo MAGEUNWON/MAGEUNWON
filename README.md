@@ -23,9 +23,11 @@
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 </p>
 
+<br />
+<br />
 <h3 align = "center">
 ⏰GitHub Stats
 </h3>
     
-![geunwon GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=vue)
+![MAGEUNWON GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=vue)
 
