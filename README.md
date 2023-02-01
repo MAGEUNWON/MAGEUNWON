@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MAGEUNWON&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
+
 <div align = "center">
-    <h4>안녕하세요 개발자 마근원입니다👋</h4>
-    
+    <p>안녕하세요 개발자 마근원입니다 🐣</p>
+
+<br />
+
 <h3 align = "center"> ⚙️ skills</h3>
 
 <p align = "center">
@@ -25,9 +28,10 @@
 
 <br />
 <br />
+
 <h3 align = "center">
 ⏰GitHub Stats
 </h3>
-    
-![MAGEUNWON GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=vue)
+![geunwon GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=vue)
+
 
