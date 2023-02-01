@@ -5,7 +5,7 @@
 
 <br />
 
-<h3 align = "center"> ⚙️ skills</h3>
+<h3 align = "center"> 📚 Tech Stack</h3>
 
 <p align = "center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
@@ -31,6 +31,5 @@
 <h3 align = "center">
 ⏰GitHub Stats
 </h3>
-
-    
-![MAGEUNWON GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=vue)
+<br />
+![MAGEUNWON GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=solarized-light)
