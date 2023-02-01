@@ -31,5 +31,5 @@
 <h3 align = "center">
 ⏰GitHub Stats
 </h3>
-<br />
+
 ![MAGEUNWON GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=solarized-light)
