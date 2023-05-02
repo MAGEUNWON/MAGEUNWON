@@ -7,10 +7,10 @@
 
 <h3 align = "center"> 🍒 About Me 🍒 </h3>
 
-<p align = "center"> 
+<!-- <p align = "center"> 
 <a href="http://15.164.13.18:3050/">
   <img src="https://img.shields.io/badge/Portfolio-FF4F8B?style=flat-square&logo=Portfolio&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://mageunwon.github.io/">
   <img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=blog&logoColor=white"/>
