@@ -25,14 +25,14 @@
 <p align = "center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Express-232F3E?style=flat-square&logo=Express&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
    <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> -->
   <br />
-   <img src="https://img.shields.io/badge/AWS Lambda-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
-   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-   <img src="https://img.shields.io/badge/AWS DynamoDB-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/PostgreSQL-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> 
   <br />
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>  
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
