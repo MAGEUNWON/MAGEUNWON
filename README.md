@@ -8,7 +8,7 @@
 <h3 align = "center"> 🍒 About Me 🍒 </h3>
 
 <p align = "center"> 
-<a href="https://www.notion.so/83bf448a698d49cb837ef51449df0a1f/">
+<a href="https://mighty-print-cc5.notion.site/83bf448a698d49cb837ef51449df0a1f/">
   <img src="https://img.shields.io/badge/Portfolio-FF4F8B?style=flat-square&logo=Portfolio&logoColor=white"/>
 </a>
 
