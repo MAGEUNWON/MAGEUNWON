@@ -7,14 +7,14 @@
 
 <h3 align = "center"> 🍒 About Me 🍒 </h3>
 
-<!-- <p align = "center"> 
-<a href="http://15.164.13.18:3050/">
+<p align = "center"> 
+<a href="https://www.notion.so/83bf448a698d49cb837ef51449df0a1f/">
   <img src="https://img.shields.io/badge/Portfolio-FF4F8B?style=flat-square&logo=Portfolio&logoColor=white"/>
-</a> -->
-
-<a href="https://mageunwon.github.io/">
-  <img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=blog&logoColor=white"/>
 </a>
+
+<!-- <a href="https://mageunwon.github.io/">
+  <img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=blog&logoColor=white"/>
+</a> -->
 
 </p>
 
