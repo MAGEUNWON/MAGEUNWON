@@ -63,14 +63,13 @@
 </p>
 <br />
 
-<h3 align="center"> 📊 GitHub Stats </h3>
+<!-- <h3 align="center"> 📊 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAGEUNWON&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGEUNWON&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
-<br />
+<br /> -->
 
 <p align="center">
   <strong>💡 단순 기능 구현을 넘어, 비즈니스 문제를 이해하고 아키텍처를 설계하며,<br/>
