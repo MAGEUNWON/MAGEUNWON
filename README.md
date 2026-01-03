@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>안녕하세요, 백엔드 개발자 마근원입니다 😄</p>
-    <p>2년 9개월차 백엔드 개발자로 제조업 B2B SaaS 플랫폼을 개발하고 있습니다.</p>
+    <p>2년 5개월차 백엔드 개발자로 제조업 B2B SaaS 플랫폼을 개발하고 있습니다.</p>
     <p>Python/FastAPI, PostgreSQL을 주력으로 사용하며, DDD 아키텍처 설계 및 대규모 데이터 처리 경험을 보유하고 있습니다.</p>
 <br />
 
@@ -47,11 +47,14 @@
 <h3 align="center"> 💼 Currently Working On </h3>
 <p align="center">
   <strong>에이아이지먼트</strong> | Backend Developer (2025.01 ~ 현재)<br/>
-  제조업 구매 전략 SaaS 플랫폼 <strong>PLYN</strong> 백엔드 개발
+  제조업 구매 전략 SaaS 플랫폼 PLYN 백엔드 아키텍처 설계 및 고도화
 </p>
 <p align="center">
-  🏗️ DDD 기반 도메인 설계 | 🗄️ 대규모 데이터 ETL 파이프라인<br/>
-  📦 견적/입찰(RFQ) 시스템 및 엑셀 자동화 | 📧 세금계산서 배치 처리 및 OCR 연동 | 🤖 AI 기반 생산성 향상
+  🏗️ DDD 기반 도메인 설계 | 레거시 리팩토링 및 확장성 있는 마이크로 서비스 지향<br/>
+  🚀 대규모 데이터 검색 고도화 | 120만 건 기업 데이터 검색 성능 8.3배 향상<br/>
+  🤖 AI 기반 DX 혁신 | 개발 표준 수립 및 자동화로 CRUD 공수 절감<br/>
+  📧 비동기 AI OCR 연동 | Callback 패턴 기반 세금계산서 대조 프로세스 자동화<br/>
+  🛠️ ChatOps 인프라 자동화 | EventBridge 기반 리소스 제어 및 비용 최적화
 </p>
 <br />
 
